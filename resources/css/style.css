@@ -1,0 +1,39 @@
+.body{
+    background: black;
+}
+
+.header h1{
+    color: white;
+    font-family: 'Verdana';
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+}
+
+.header p{
+    text-align: center;
+}
+
+.header a{
+    color: aquamarine;
+    font-size: 16px;
+    font-family: 'Verdana';
+}
+
+#phone{
+    text-align: center;
+}
+
+#phone h2{
+    color: white;
+    font-weight: 300;
+    font-family: 'Verdana';
+    font-size: 42px;
+}
+
+#phone h3{
+    color: gray;
+    font-size: 21px;
+    font-family: 'Verdana';
+}
+
